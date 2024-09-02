@@ -12,7 +12,7 @@ This repository contains the frontend code for a Udemy website clone, built usin
 
 ## Demo
 
-You can see the live demo of this project at https://ramsandy2402.github.io/udemy-clone/
+You can see the live demo of this project at https://raghuram-kumar.github.io/udemy-clone/
 
 ## Installation
 
